@@ -17,6 +17,7 @@
       <module name="movie-catalog-service" target="11" />
       <module name="movie-info-service" target="11" />
       <module name="ratings-data-service" target="11" />
+      <module name="testing-client" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +26,7 @@
       <module name="movie-catalog-service" options="-parameters" />
       <module name="movie-info-service" options="-parameters" />
       <module name="ratings-data-service" options="-parameters" />
+      <module name="testing-client" options="-parameters" />
     </option>
   </component>
 </project>
